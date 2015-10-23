@@ -1,0 +1,3 @@
+#!/bin/sh
+task=$(task next rc:~/.config/bspwm/scripts/panel_taskrc limit:1)
+echo "$task"

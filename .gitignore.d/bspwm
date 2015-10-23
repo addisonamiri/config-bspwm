@@ -1,0 +1,17 @@
+*
+!/.config
+!/.config/bspwm
+!/.config/bspwm/bspwmrc
+!/.config/bspwm/desktop_conkyrc
+!/.config/bspwm/panel
+!/.config/bspwm/panel_bar
+!/.config/bspwm/panel_colors
+!/.config/bspwm/panel_conkyrc
+!/.config/bspwm/panel_task
+!/.config/bspwm/panel_taskrc
+!/.config/sxhkd
+!/.config/sxhkd/sxhkdrc
+!/.config/zathura
+!/.config/zathura/zathurarc
+!/.gitignore.d/
+!/.gitignore.d/bspwm

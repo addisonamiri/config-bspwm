@@ -1,0 +1,5 @@
+data.location=~/.task
+verbose=nothing
+color=off
+report.next.columns=description
+report.next.labels=name
